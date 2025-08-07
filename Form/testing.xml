@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "testing.dtd">
+<suite name="Form Test Suite">
+    <test name="Form Tests">
+        <classes>
+            <class name="tests.FormTests"/>
+        </classes>
+    </test>
+</suite>
